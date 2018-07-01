@@ -237,6 +237,27 @@ Boost/1.64.0@conan/stable
 cmake
 ```
 
-@[0]
 @[1-3]
 @[5-6]
+
+---?image=assets/img/lego-dark-green.png
+
+#### CONAN IN ACTION
+@title[Conan in Action cmake]
+
+CMakeLists.txt
+
+```cmake
+cmake_minimum_required(VERSION 2.8)
+project(example CXX)
+
+include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
+conan_basic_setup()
+
+add_executable(example example.cpp)
+target_link_libraries(example ${CONAN_LIBS})
+```
+
+@[1-2]
+@[4-5]
+@[7-8]
