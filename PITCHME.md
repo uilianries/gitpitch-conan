@@ -36,15 +36,16 @@ Work at **@khomp**
 ##### Because you need good libraries
 
 ---?image=assets/img/lego-dark-blue.png
+@title[A New Problem]
 
 Let's start a new C++ project!
 
 What I need?
 
 @div[left]
-* OpenSSL
-* Qt
-* Boost
-* OpenCV
-* POCO
+- OpenSSL
+- Qt
+- Boost
+- OpenCV
+- POCO
 @divend
