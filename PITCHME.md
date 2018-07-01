@@ -31,7 +31,7 @@ Work at **@khomp**
 
 ---?image=assets/img/lego-dark-red.png
 
-### POPULAR C ++ PROJECTS
+### POPULAR C/C++ PROJECTS
 
 ##### Because you need good libraries
 
