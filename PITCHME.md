@@ -117,7 +117,7 @@ What I need?
 #### C++ UNIVERSE
 @title[Cpp Universe]
 
-@div[left-70]
+@div[left-50]
 <br>
 • CONAN<br>
 • HUNTER<br>
@@ -126,6 +126,6 @@ What I need?
 • CGET<br>
 • CPM<br>
 @divend
-@div[right-30]
+@div[right-50]
 ![cpp](assets/img/cpp-logo.png)
 @divend
