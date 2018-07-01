@@ -40,7 +40,7 @@ Work at **@khomp**
 
 Let's start a new C++ project!
 
-What I need?
+What does it need??
 
 @div[left-50]
 <ul>
@@ -164,3 +164,19 @@ Not the barbarian
 ### INSTALL
 
 `$ pip install conan`
+
+---?image=assets/img/lego-dark-red.png
+
+### CONAN IN ACTION
+@title[Conan in Action]
+
+Talk is cheap. Show me the code.
+
+---?image=assets/img/lego-dark-red.png
+
+#### CONAN IN ACTION
+@title[Conan in Action]
+
+* Digest MD5 using Poco project
+* Check an email address by Boost Regex
+* Build using CMake
