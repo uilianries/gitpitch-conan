@@ -158,3 +158,9 @@ Not the barbarian
 @div[right-30]
 ![cpp](assets/img/logo.png)
 @divend
+
+---?image=assets/img/lego-dark-green.png
+
+### INSTALL
+
+`$ pip install conan`
