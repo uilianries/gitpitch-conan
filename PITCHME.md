@@ -73,6 +73,7 @@ What I need?
 ---?image=assets/img/lego-dark-red.png
 
 ### PACKAGE MANAGERS
+@title[Package Managers]
 
 ##### How to avoid *externals* in your project
 
@@ -96,6 +97,7 @@ What I need?
 ---?image=assets/img/lego-dark-blue.png
 
 #### C++ UNIVERSE
+@title[Cpp Universe]
 
 @div[left-70]
 • CONAN<br>
