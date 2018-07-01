@@ -1,6 +1,6 @@
 theme: night
 
-footnote : "<a href='https://uilianries.github.io'><font size='+7' color='white'>@uilianries</font></a>"
+footnote : "<a href='https://uilianries.github.io'><font size='7' color='white'>@uilianries</font></a>"
 
 logo : assets/img/logo.png
 logo-position : bottom-right

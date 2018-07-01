@@ -10,11 +10,15 @@ FISL18
 
 @div[left-50]
 Hello!
-
+<br>
+<br>
 **Uilian Ries**
-
+<br>
+<br>
 C++ and Python Developer
+<br>
 Work at @khomp
+<br>
 @divend
 
 @div[right-50]
