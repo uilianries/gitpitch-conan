@@ -28,3 +28,21 @@ Work at **@khomp**
 @div[right-30]
 ![me](assets/img/me.png)
 @divend
+
+---?image=assets/img/lego-dark-red.png
+
+# POPULAR C ++ PROJECTS
+
+## Because you need good libraries
+
+---?image=assets/img/lego-dark-blue.png
+
+Let's start a new C++ project!
+
+What I need?
+
+* OpenSSL
+* Qt
+* Boost
+* OpenCV
+* POCO
