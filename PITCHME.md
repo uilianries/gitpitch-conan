@@ -126,6 +126,6 @@ What I need?
 • CGET<br>
 • CPM<br>
 @divend
-@div[right-50]
+@div[right-30]
 ![cpp](assets/img/cpp-logo.png)
 @divend
