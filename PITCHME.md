@@ -568,7 +568,8 @@ Sharing data is the first step toward community.
 
 ##### Questions ?
 
-You can find me on:
-**@uilianries** - twitter, github
-cpplang.slack.com - channel #conan or #bincrafters
-uilianries@gmail.com
+You can find me on:  
+
+**@uilianries** - twitter, github  
+cpplang.slack.com - channel #conan or #bincrafters  
+uilianries@gmail.com  
