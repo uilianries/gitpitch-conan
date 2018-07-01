@@ -416,7 +416,7 @@ build_type=Release
 `$ conan remote list`
 
 ```
+my-company: http://172.0.1.42:9300
 conan-center: https://conan.bintray.com
 bincrafters: http://api.bintray.com/conan/bincrafters/public-conan
-conan-community: https://api.bintray.com/conan/conan-community/conan
 ```
