@@ -8,7 +8,7 @@ FISL18
 ---?image=assets/img/lego-white.png
 @title[Theme Switcher]
 
-@div[left-50]
+@div[left-70]
 Hello!
 <br>
 <br>
@@ -17,10 +17,10 @@ Hello!
 <br>
 C++ and Python Developer
 <br>
-Work at @khomp
+Work at **@khomp**
 <br>
 @divend
 
-@div[right-50]
+@div[right-30]
 ![me](assets/img/me.png)
 @divend
