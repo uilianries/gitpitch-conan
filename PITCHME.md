@@ -202,6 +202,8 @@ example
 #### CONAN IN ACTION
 @title[Conan in Action main.cpp]
 
+main.cpp
+
 ```cpp
 #include <Poco/MD5Engine.h>
 #include <boost/regex.hpp>
@@ -211,10 +213,26 @@ int main() {
     Poco::MD5Engine md5;
     md5.update("Hello World");
     std::string md5string = Poco::DigestEngine::digestToHex(md5.digest());
-    std::cout<< "MD5= " << md5string << '\n';
+    std::cout << "MD5= " << md5string << '\n';
 
-    boost::regex expr{"Hello"};
+    boost::regex expr{R"(\w+\s\w+)"};
     std::cout << boost::regex_match("Hello World", expr) << '\n';
     return EXIT_SUCCESS;
 }
+```
+
+---?image=assets/img/lego-dark-blue.png
+
+#### CONAN IN ACTION
+@title[Conan in Action conanfile]
+
+conanfile.txt
+
+```
+[requires]
+Poco/1.8.0.1@pocoproject/stable
+Boost/1.64.0@conan/stable
+
+[generators]
+cmake
 ```
