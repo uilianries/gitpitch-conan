@@ -2,3 +2,7 @@
   border: 0;
   box-shadow: none;
 }
+
+.left-align {
+  text-align: left;
+}

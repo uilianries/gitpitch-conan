@@ -42,7 +42,7 @@ Let's start a new C++ project!
 
 What I need?
 
-@align[left](
+@css[left-align](
 - OpenSSL
 - Qt
 - Boost
