@@ -455,3 +455,35 @@ Existing packages for recipe boost/1.67.0@conan/stable:
             bzip2/1.0.6@conan/stable:76f87539fc90ff313e0b3182641a9bb558a717d2
             zlib/1.2.11@conan/stable:d358fec34c04bcd89832a09158783c750a3304dc
 ```
+
+---?image=assets/img/lego-dark-red.png
+
+### CREATING PACKAGES
+@title[creating packages]
+
+How a recipe looks like.
+
+
+---?image=assets/img/lego-dark-green.png
+
+### CREATING PACKAGES
+@title[creating packages]
+
+```python
+from conans import ConanFile, CMake, tools
+
+class HelloConan(ConanFile):
+    name = "hello"
+    version = "0.1"
+    settings = "os", "compiler", "build_type", "arch"
+    generators = "cmake"
+
+    def build(self):
+        cmake = CMake(self)
+        cmake.configure()
+        cmake.build()
+        cmake.install()
+
+    def package_info(self):
+        self.cpp_info.libs = ["hello"]
+```
