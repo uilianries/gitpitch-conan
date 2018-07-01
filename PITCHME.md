@@ -88,5 +88,20 @@ What I need?
   - Maven
 * JavaScript
   - npm
-* C/C++
-  - ???
+
+---?image=assets/img/lego-dark-green.png
+
+  #### POPULAR PACKAGE MANAGERS
+
+  * Python
+    - pip, Conda
+  * Rust
+    - Cargo
+  * Java
+    - Maven
+  * JavaScript
+    - npm
+
+---?image=assets/img/lego-dark-blue.png
+
+![bjarne](assets/img/bjarne.png)
