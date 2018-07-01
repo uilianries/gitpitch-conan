@@ -2,7 +2,7 @@ theme: night
 
 footnote : "<a href='https://uilianries.github.io'><font size='3' color='white'>@uilianries</font></a>"
 
-theme-override : assets/css/custom.css
+theme-override : assets/css/PITCHME.css
 
 logo : assets/img/logo.png
 logo-position : bottom-right
