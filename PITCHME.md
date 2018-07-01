@@ -43,11 +43,13 @@ Let's start a new C++ project!
 What I need?
 
 @div[left-50]
-• OpenSSL<br>
-• Qt<br>
-• Boost<br>
-• OpenCV<br>
-• POCO
+<ul>
+  <li>OpenSSL</li>
+  <li>Qt</li>
+  <li>Boost</li>
+  <li>OpenCV</li>
+  <li>POCO</li>
+</ul>
 @divend
 
 ---?image=assets/img/lego-dark-green.png
@@ -103,9 +105,7 @@ What I need?
 </ul>
 @divend
 @div[right-30]
-![python-logo](assets/img/python-logo.png)
-![rust-logo](assets/img/rust-logo.png)
-![js-logo](assets/img/js-logo.png)
+![languages](assets/img/languages.png)
 @divend
 
 ---?image=assets/img/lego-dark-blue.png
