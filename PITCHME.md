@@ -80,8 +80,13 @@ What I need?
 
 #### POPULAR PACKAGE MANAGERS
 
-* Python -> pip, Conda
-* Rust -> Cargo
-* Java -> Maven
-* JavaScript -> npm
-* C++ -> ???
+* Python
+  - pip, Conda
+* Rust
+  - Cargo
+* Java
+  - Maven
+* JavaScript
+  - npm
+* C/C++
+  - ???
