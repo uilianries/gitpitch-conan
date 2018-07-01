@@ -40,7 +40,7 @@ Work at **@khomp**
 
 Let's start a new C++ project!
 
-What does it need??
+What does it need?
 
 @div[left-50]
 <ul>
@@ -170,7 +170,13 @@ Not the barbarian
 ### CONAN IN ACTION
 @title[Conan in Action]
 
+@div[left-70]
+<br>
 Talk is cheap. Show me the code.
+@divend
+@div[right-30]
+![torvalds](assets/img/torvalds.png)
+@divend
 
 ---?image=assets/img/lego-dark-red.png
 
