@@ -342,3 +342,27 @@ How the barbarian works.
 * Based on Profiles
 
 **Conan settings + Host configuration = Profile**
+
+---?image=assets/img/lego-dark-green.png
+
+#### PROFILE
+@title[profile]
+
+`$ conan profile show default`
+
+```
+Configuration for profile default:
+
+[settings]
+os=Linux
+os_build=Linux
+arch=x86_64
+arch_build=x86_64
+compiler=gcc
+compiler.version=8
+compiler.libcxx=libstdc++11
+build_type=Release
+[options]
+[build_requires]
+[env]
+```
