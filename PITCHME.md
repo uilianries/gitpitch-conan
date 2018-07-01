@@ -180,7 +180,7 @@ Talk is cheap. Show me the code.
 @title[Conan in Action File]
 
 * Digest MD5 using Poco project
-* Check an email address by Boost Regex
+* Check string by Boost Regex
 * Build using CMake
 
 ![projects](assets/img/projects.png)
@@ -203,7 +203,7 @@ example
 @title[Conan in Action main.cpp]
 
 ```cpp
-#include "Poco/MD5Engine.h"
+#include <Poco/MD5Engine.h>
 #include <boost/regex.hpp>
 #include <string>
 #include <iostream>
@@ -212,11 +212,10 @@ int main() {
     Poco::MD5Engine md5;
     md5.update("Hello World");
     std::string md5string = Poco::DigestEngine::digestToHex(md5.digest());
-    std::cout<< "MD5= " << md5string << "\n";
+    std::cout<< "MD5= " << md5string << '\n';
 
-    std::string s = "correct@email.com", s2="bademail";
-    boost::regex expr{"\\b[a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,4}\\b"};
-    std::cout << std::boolalpha << boost::regex_match(s, expr) << '\n';
-    std::cout << std::boolalpha << boost::regex_match(s2, expr) << '\n';
+    boost::regex expr{"Hello"};
+    std::cout << boost::regex_match("Hello World", expr) << '\n';
+    return EXIT_SUCCESS;
 }
 ```
