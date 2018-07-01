@@ -1,4 +1,4 @@
----?image=assets/img/lego-deak-blue.png
+---?image=assets/img/lego-dark-blue.png
 @title[Introduction]
 ## Conan.io
 
