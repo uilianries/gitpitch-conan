@@ -303,7 +303,7 @@ Packages
     zlib/1.2.11@conan/stable:d358fec34c04bcd89832a09158783c750a3304dc - Download
 PROJECT: Generator cmake created conanbuildinfo.cmake
 PROJECT: Generator txt created conanbuildinfo.txt
-PROJECT: Generated conaninf
+PROJECT: Generated conaninfo.txt
 ```
 
 ---?image=assets/img/lego-dark-green.png
@@ -388,3 +388,15 @@ build_type=Release
 [build_requires]
 [env]
 ```
+
+---?image=assets/img/lego-dark-green.png
+
+#### PACKAGE DISTRIBUTION
+@title[package distribution]
+
+* Git flavor
+* Support multiple remotes
+* Central repository - JFrog Bintray
+* Easy to run a local server instance
+  * `$ conan_server`
+* JFrog Artifactory can be used together
