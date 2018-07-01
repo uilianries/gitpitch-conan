@@ -66,6 +66,22 @@ What I need?
 
 ---?image=assets/img/lego-dark-green.png
 
-#### ALL OF THEM NEED TO BE BUILT
+#### Build from source? Install from distro?
 
 ![build-all](https://media.giphy.com/media/50boph6tWHdtu/giphy.gif)
+
+---?image=assets/img/lego-dark-red.png
+
+### PACKAGE MANAGERS
+
+##### How to avoid *externals* in your project
+
+---?image=assets/img/lego-dark-green.png
+
+#### POPULAR PACKAGE MANAGERS
+
+* Python -> pip, Conda
+* Rust -> Cargo
+* Java -> Maven
+* JavaScript -> npm
+* C++ -> ???
