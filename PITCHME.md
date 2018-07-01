@@ -292,9 +292,8 @@ target_link_libraries(example ${CONAN_LIBS})
 How to Build
 
 ```
-$ mkdir build && cd build
-$ conan install ..
-$ cmake ..
+$ conan install .
+$ cmake .
 $ cmake --build .
 $ bin/example
 ```
