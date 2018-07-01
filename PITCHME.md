@@ -53,6 +53,7 @@ What I need?
 ---?image=assets/img/lego-dark-green.png
 
 #### ALL OF THEM NEED TO BE BUILT
+@title[All need to be built]
 
 * Download the source. Build on your machine
   - It may take several minutes, or even hours
