@@ -7,6 +7,6 @@ theme-override : assets/css/PITCHME.css
 logo : assets/img/logo.png
 logo-position : bottom-right
 
-background : assets/img/lego-blue.png
+background : assets/img/lego-dark-blue.png
 
 transition : none

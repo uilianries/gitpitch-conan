@@ -5,7 +5,7 @@
 
 FISL18
 
----
+---?image=assets/img/lego-dark-green.png
 @title[Theme Switcher]
 
 @div[left-70]
