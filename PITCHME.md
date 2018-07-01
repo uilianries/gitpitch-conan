@@ -68,7 +68,7 @@ What I need?
 
 #### Build from source? Install from distro?
 
-![build-all](https://media.giphy.com/media/50boph6tWHdtu/giphy.gif)
+![build-all](assets/gif/good-bad-ugly.gif)
 
 ---?image=assets/img/lego-dark-red.png
 
