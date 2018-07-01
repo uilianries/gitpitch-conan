@@ -400,3 +400,10 @@ build_type=Release
 * Easy to run a local server instance
   * `$ conan_server`
 * JFrog Artifactory can be used together
+
+---?image=assets/img/lego-dark-green.png
+
+#### PACKAGE DISTRIBUTION
+@title[package distribution]
+
+![distribution](assets/img/systems.png)
