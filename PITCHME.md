@@ -291,6 +291,28 @@ target_link_libraries(example ${CONAN_LIBS})
 
 How to Build
 
+`$ conan install .`
+
+```
+PROJECT: Installing /home/conan/project/conanfile.txt
+Packages
+    OpenSSL/1.0.2o@conan/stable:0abbb2ea17cdc92f4a2ac8a9e55de717e3b5a9d1 - Download
+    Poco/1.9.0@pocoproject/stable:8a67b44a092c0074e3cb946a9ddada338054b11e - Download
+    boost/1.67.0@conan/stable:eacfdb5f448bfd89f0b2950fb6b7a79e44c7ea08 - Download
+    bzip2/1.0.6@conan/stable:76f87539fc90ff313e0b3182641a9bb558a717d2 - Download
+    zlib/1.2.11@conan/stable:d358fec34c04bcd89832a09158783c750a3304dc - Download
+PROJECT: Generator cmake created conanbuildinfo.cmake
+PROJECT: Generator txt created conanbuildinfo.txt
+PROJECT: Generated conaninf
+```
+
+---?image=assets/img/lego-dark-green.png
+
+#### CONAN IN ACTION
+@title[Conan in Action build]
+
+How to Build
+
 ```
 $ conan install .
 $ cmake .
