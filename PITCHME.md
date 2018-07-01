@@ -220,6 +220,9 @@ int main() {
 }
 ```
 
+@[6-9]
+@[11-12]
+
 ---?image=assets/img/lego-dark-blue.png
 
 #### CONAN IN ACTION
@@ -275,7 +278,7 @@ project(example CXX)
 include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
 conan_basic_setup()
 
-add_executable(example example.cpp)
+add_executable(example main.cpp)
 target_link_libraries(example ${CONAN_LIBS})
 ```
 
