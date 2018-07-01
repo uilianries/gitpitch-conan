@@ -401,7 +401,7 @@ build_type=Release
   * `$ conan_server`
 * JFrog Artifactory can be used together
 
----?image=assets/img/lego-dark-green.png
+---?image=assets/img/lego-dark-white.png
 
 #### PACKAGE DISTRIBUTION
 @title[package distribution]
