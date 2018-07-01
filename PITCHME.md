@@ -19,7 +19,8 @@ C++ and Python Developer
 <br>
 Work at **@khomp**
 <br>
-@fa[gitub] @fa[twitter] @fa[linkedin]
+<br>
+@fa[github] @fa[twitter] @fa[linkedin]
 @divend
 
 @div[right-30]
