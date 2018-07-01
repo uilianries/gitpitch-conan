@@ -310,6 +310,7 @@ $ bin/example
 
 How the barbarian works.
 
+![nutshell](assets/img/nutshell-conan.png)
 
 ---?image=assets/img/lego-dark-blue.png
 
@@ -320,5 +321,3 @@ How the barbarian works.
 * System setup
 * Package distribution
 * Local cache
-
-![nutshell](assets/img/nutshell-conan.png)
