@@ -255,7 +255,7 @@ find_package(Boost 1.67.0 REQUIRED regex)
 find_package(Poco 1.9.0 REQUIRED Foundation)
 
 add_executable(example main.cpp)
-target_link_libraries(example ${Boost_INCLUDE_DIRS} ${Poco_LIBRARIES})
+target_link_libraries(example ${Boost_LIBRARIES} ${Poco_LIBRARIES})
 ```
 
 @[1-2]
@@ -283,3 +283,20 @@ target_link_libraries(example ${CONAN_LIBS})
 @[1-2]
 @[4-5]
 @[7-8]
+
+---?image=assets/img/lego-dark-green.png
+
+#### CONAN IN ACTION
+@title[Conan in Action build]
+
+How to Build
+
+```
+$ mkdir build && cd build
+$ conan install ..
+$ cmake ..
+$ cmake --build .
+$ bin/example
+```
+
+@[?]
