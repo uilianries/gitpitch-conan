@@ -1,3 +1,4 @@
+---?image=assets/img/lego-deak-blue.png
 @title[Introduction]
 ## Conan.io
 
@@ -5,7 +6,7 @@
 
 FISL18
 
----?image=assets/img/lego-white.png
+---
 @title[Theme Switcher]
 
 @div[left-70]
