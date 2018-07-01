@@ -63,3 +63,9 @@ What I need?
 * Install by system package manager
   - The version may not be as expected
   - There may be a patch applied
+
+---?image=assets/img/lego-dark-green.png
+
+#### ALL OF THEM NEED TO BE BUILT
+
+![build-all](https://media.giphy.com/media/50boph6tWHdtu/giphy.gif)
