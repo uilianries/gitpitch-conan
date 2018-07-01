@@ -174,7 +174,7 @@ Talk is cheap. Show me the code.
 
 ![torvalds](assets/img/torvalds.png)
 
----?image=assets/img/lego-dark-red.png
+---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
 @title[Conan in Action]
