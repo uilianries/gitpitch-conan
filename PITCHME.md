@@ -321,3 +321,15 @@ How the barbarian works.
 * System setup
 * Package distribution
 * Local cache
+
+---?image=assets/img/lego-dark-green.png
+
+#### PACKAGE NAMING
+@title[Package Naming]
+
+`name/version@user/channel`
+
+* Examples
+  * Poco/1.9.0@pocoproject/stable
+  * Boost/1.67.0@conan/testing
+  * Qt/5.11.0@bincrafters/stable
