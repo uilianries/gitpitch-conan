@@ -407,3 +407,16 @@ build_type=Release
 @title[package distribution]
 
 ![distribution](assets/img/systems.png)
+
+---?image=assets/img/lego-dark-green.png
+
+#### LIST REMOTES
+@title[list remotes]
+
+`$ conan remote list`
+
+```
+conan-center: https://conan.bintray.com
+bincrafters: http://api.bintray.com/conan/bincrafters/public-conan
+conan-community: https://api.bintray.com/conan/conan-community/conan
+```
