@@ -92,3 +92,19 @@ What I need?
 ---?image=assets/img/lego-dark-blue.png
 
 ![bjarne](assets/img/bjarne.png)
+
+---?image=assets/img/lego-dark-blue.png
+
+#### C++ UNIVERSE
+
+@div[left-70]
+• CONAN<br>
+• HUNTER<br>
+• BUCKAROO<br>
+• VCPKG<br>
+• CGET<br>
+• CPM<br>
+@divend
+@div[right-30]
+![cpp](assets/img/cpp-logo.png)
+@divend
