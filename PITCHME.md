@@ -327,7 +327,7 @@ $ bin/example
 
 ---?image=assets/img/lego-dark-blue.png
 
-#### RESULT
+#### CONAN IN ACTION
 @title[Conan in Action result]
 
 * Install Boost 1.67.0 binaries
