@@ -90,7 +90,9 @@ What I need?
 * JavaScript
   - npm
 
-![](assets/img/python-logo.png) ![](assets/img/rust-logo.png) ![](assets/img/js-logo.png)
+@div[]
+![python-logo](assets/img/python-logo.png) ![rust-logo](assets/img/rust-logo.png) ![js-logo](assets/img/js-logo.png)
+@divend
 
 ---?image=assets/img/lego-dark-blue.png
 
