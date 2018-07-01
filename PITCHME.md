@@ -321,4 +321,4 @@ How the barbarian works.
 * Package distribution
 * Local cache
 
-![nutshell](assets/img/nutshell.png)
+![nutshell](assets/img/nutshell-conan.png)
