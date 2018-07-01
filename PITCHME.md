@@ -1,4 +1,3 @@
-@title[Introduction]
 ## Conan.io
 
 #### The C/C++ Package Manager for Developers
@@ -6,7 +5,7 @@
 FISL18
 
 ---?image=assets/img/lego-dark-green.png
-@title[Theme Switcher]
+@title[About me]
 
 @div[left-70]
 Hello!
@@ -36,7 +35,7 @@ Work at **@khomp**
 ##### Because you need good libraries
 
 ---?image=assets/img/lego-dark-blue.png
-@title[A New Problem]
+@title[A New Project]
 
 Let's start a new C++ project!
 
@@ -55,7 +54,6 @@ What does it need?
 ---?image=assets/img/lego-dark-green.png
 
 #### ALL OF THEM NEED TO BE BUILT
-@title[All need to be built]
 
 * Download the source. Build on your machine
   - It may take several minutes, or even hours
@@ -75,7 +73,6 @@ What does it need?
 ---?image=assets/img/lego-dark-red.png
 
 ### PACKAGE MANAGERS
-@title[Package Managers]
 
 ##### How to avoid *externals* in your project
 
@@ -115,7 +112,6 @@ What does it need?
 ---?image=assets/img/lego-dark-blue.png
 
 #### C++ UNIVERSE
-@title[Cpp Universe]
 
 @div[left-50]
 <br>
@@ -177,7 +173,7 @@ Talk is cheap. Show me the code.
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action File]
+@title[Conan in Action File - Propose]
 
 * Digest MD5 using Poco project
 * Check string by Boost Regex
@@ -188,7 +184,7 @@ Talk is cheap. Show me the code.
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action Dir]
+@title[Conan in Action - Project Structure]
 
 ```
 example
@@ -200,7 +196,7 @@ example
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action main.cpp]
+@title[Conan in Action - main.cpp]
 
 main.cpp
 
@@ -224,7 +220,7 @@ int main() {
 ---?image=assets/img/lego-dark-blue.png
 
 #### CONAN IN ACTION
-@title[Conan in Action conanfile]
+@title[Conan in Action - conanfile.txt]
 
 conanfile.txt
 
@@ -243,7 +239,7 @@ cmake
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action cmake]
+@title[Conan in Action - CMakeLists.txt]
 
 CMakeLists.txt - **TARGET**
 
@@ -265,7 +261,7 @@ target_link_libraries(example ${Boost_LIBRARIES} ${Poco_LIBRARIES})
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action cmake]
+@title[Conan in Action - CMakeLists.txt (Conan)]
 
 CMakeLists.txt - **WITH CONAN**
 
@@ -287,7 +283,7 @@ target_link_libraries(example ${CONAN_LIBS})
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action build]
+@title[Conan in Action - Conan Install]
 
 How to Build
 
@@ -308,7 +304,7 @@ PROJECT: Generated conaninfo.txt
 ---?image=assets/img/lego-dark-green.png
 
 #### CONAN IN ACTION
-@title[Conan in Action build]
+@title[Conan in Action - Build]
 
 How to Build
 
@@ -327,7 +323,7 @@ $ bin/example
 ---?image=assets/img/lego-dark-blue.png
 
 #### CONAN IN ACTION
-@title[Conan in Action result]
+@title[Conan in Action - The Result]
 
 * Install Boost 1.67.0 binaries
 * Install Poco 1.9.0 binaries
@@ -339,7 +335,6 @@ $ bin/example
 ---?image=assets/img/lego-dark-red.png
 
 ### CONAN IN A NUTSHELL
-@title[Conan in a nutshell]
 
 How the barbarian works.
 
@@ -348,7 +343,6 @@ How the barbarian works.
 ---?image=assets/img/lego-dark-blue.png
 
 #### UNDERSTANDING CONAN
-@title[Understand Conan]
 
 * Package naming
 * System setup
@@ -358,7 +352,6 @@ How the barbarian works.
 ---?image=assets/img/lego-dark-green.png
 
 #### PACKAGE NAMING
-@title[Package Naming]
 
 **`name/version@user/channel`**
 
@@ -370,7 +363,6 @@ How the barbarian works.
 ---?image=assets/img/lego-dark-green.png
 
 #### SYSTEM SETUP
-@title[System Setup]
 
 * Based on Profiles
 
@@ -379,7 +371,6 @@ How the barbarian works.
 ---?image=assets/img/lego-dark-green.png
 
 #### PROFILE
-@title[profile]
 
 `$ conan profile show default`
 
@@ -403,7 +394,6 @@ build_type=Release
 ---?image=assets/img/lego-dark-green.png
 
 #### PACKAGE DISTRIBUTION
-@title[package distribution]
 
 * Git flavor
 * Support multiple remotes
@@ -415,14 +405,12 @@ build_type=Release
 ---?image=assets/img/lego-dark-red.png
 
 #### PACKAGE DISTRIBUTION
-@title[package distribution]
 
 ![distribution](assets/img/systems.png)
 
 ---?image=assets/img/lego-dark-green.png
 
 #### LIST REMOTES
-@title[list remotes]
 
 `$ conan remote list`
 
@@ -435,7 +423,6 @@ bincrafters: http://api.bintray.com/conan/bincrafters/public-conan
 ---?image=assets/img/lego-dark-green.png
 
 #### LOCAL CACHE
-@title[local cache]
 
 Conan Package = **1** recipe, **N** binary packages
 
@@ -444,7 +431,6 @@ Conan Package = **1** recipe, **N** binary packages
 ---?image=assets/img/lego-dark-green.png
 
 #### PACKAGE ID
-@title[package id]
 
 `$ conan search boost/1.67.0@conan/stable`
 
@@ -470,14 +456,13 @@ Existing packages for recipe boost/1.67.0@conan/stable:
 ---?image=assets/img/lego-dark-red.png
 
 ### CREATING PACKAGES
-@title[creating packages]
 
 How a recipe looks like.
 
 ---?image=assets/img/lego-dark-green.png
 
 #### CREATING PACKAGES
-@title[creating packages]
+@title[Creating Packages - conanfile.py]
 
 ```python
 from conans import ConanFile, CMake, tools
@@ -501,7 +486,7 @@ class HelloConan(ConanFile):
 ---?image=assets/img/lego-dark-green.png
 
 #### CREATING PACKAGES
-@title[creating packages]
+@title[Creating Packages - Create]
 
 `conan create . uilianries/testing`
 
@@ -523,14 +508,12 @@ hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
 ---?image=assets/img/lego-dark-red.png
 
 ### COMMUNITY
-@title[community]
 
 Sharing data is the first step toward community.
 
 ---?image=assets/img/lego-dark-green.png
 
 #### BINTRAY AS DOWNLOAD CENTER
-@title[bintray]
 
 * https://bintray.com/conan
 * Frog’s solution
@@ -539,7 +522,6 @@ Sharing data is the first step toward community.
 ---?image=assets/img/lego-dark-blue.png
 
 #### BINCRAFTERS
-@title[bincrafters]
 
 @div[left-70]
 <br>
@@ -561,7 +543,6 @@ Sharing data is the first step toward community.
 ---?image=assets/img/lego-dark-white.png
 
 #### REFERENCES
-@title[references]
 
 * https://github.com/conan-io/conan
 * https://github.com/bincrafters
@@ -574,8 +555,7 @@ Sharing data is the first step toward community.
 
 ---?image=assets/img/lego-dark-white.png
 
-### THANKS!
-@title[thanks]
+### THANK YOU!
 
 ##### Questions ?
 
