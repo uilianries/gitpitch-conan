@@ -142,7 +142,7 @@ Not the barbarian
 
 ---?image=assets/img/lego-dark-blue.png
 
-@div[left-70]
+@div[left-80]
 <br>
 <ul>
   <li>FOSS</li>
@@ -155,6 +155,6 @@ Not the barbarian
   <li>2K stars (Github)</li>
 </ul>
 @divend
-@div[right-30]
+@div[right-20]
 ![cpp](assets/img/logo.png)
 @divend
