@@ -42,10 +42,10 @@ Let's start a new C++ project!
 
 What I need?
 
-@div[left]
+@align[left](
 - OpenSSL
 - Qt
 - Boost
 - OpenCV
 - POCO
-@divend
+)
