@@ -342,7 +342,7 @@ $ bin/example
 
 ### CONAN IN A NUTSHELL
 
-How the barbarian works.
+How it works.
 
 ![nutshell](assets/img/nutshell-conan.png)
 
