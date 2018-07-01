@@ -106,6 +106,7 @@ What does it need?
 @divend
 
 ---?image=assets/img/lego-dark-blue.png
+@title[CppCon 2017]
 
 ![bjarne](assets/img/bjarne.png)
 
