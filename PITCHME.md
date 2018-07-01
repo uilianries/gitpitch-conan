@@ -537,7 +537,9 @@ Sharing data is the first step toward community.
   <li>Packaging OSS Software</li>
   <li>~20 members and growing</li>
   <li>+200 recipes, including:</li>
-  <li>Modular Boost, Abseil, Azure, Qt, ...</li>
+  <ul>
+    <li>Boost, Abseil, Azure, Qt</li>
+  </ul>
   <li>Thanks to @solvingj, @SSE4, @grafikbot, @theirix, @madebr</li>
 </ul>
 @divend
