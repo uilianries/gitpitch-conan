@@ -49,3 +49,16 @@ What I need?
 • OpenCV<br>
 • POCO
 @divend
+
+---?image=assets/img/lego-dark-green.png
+
+#### ALL OF THEM NEED TO BE BUILT
+
+* Download the source. Build on your machine
+  - It may take several minutes, or even hours
+  - There may be external dependencies
+  - You need to know how to build
+
+* Install by system package manager
+  - The version may not be as expected
+  - There may be a patch applied
