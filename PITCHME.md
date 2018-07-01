@@ -325,6 +325,18 @@ $ bin/example
 @[3]
 @[4]
 
+---?image=assets/img/lego-dark-blue.png
+
+#### RESULT
+@title[Conan in Action result]
+
+* Install Boost 1.67.0 binaries
+* Install Poco 1.9.0 binaries
+* CMake helper
+* It works for Linux, Windows, Macos, FreeBSD, ...
+
+![obama](assets/gif/obama.gif)
+
 ---?image=assets/img/lego-dark-red.png
 
 ### CONAN IN A NUTSHELL
