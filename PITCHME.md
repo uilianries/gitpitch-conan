@@ -474,7 +474,7 @@ from conans import ConanFile, CMake, tools
 
 class HelloConan(ConanFile):
     name = "hello"
-    version = "0.1"
+    version = "0.1.0"
     settings = "os", "compiler", "build_type", "arch"
     generators = "cmake"
 
@@ -486,4 +486,26 @@ class HelloConan(ConanFile):
 
     def package_info(self):
         self.cpp_info.libs = ["hello"]
+```
+
+---?image=assets/img/lego-dark-green.png
+
+### CREATING PACKAGES
+@title[creating packages]
+
+`conan create . uilianries/testing`
+
+```
+hello/0.1.0@uilianries/testing: Exporting package recipe
+hello/0.1.0@uilianries/testing: WARN: Forced build from source
+hello/0.1.0@uilianries/testing: Installing package
+Requirements
+    hello/0.1.0@uilianries/testing from local cache - Cache
+Packages
+    hello/0.1.0@uilianries/testing:56e0cf6d16ee57367a0661ab743f4e43b29223f8 - Build
+
+hello/0.1.0@uilianries/testing: Building your package in
+hello/0.1.0@uilianries/testing: Copying sources to build folder
+hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
+...
 ```
