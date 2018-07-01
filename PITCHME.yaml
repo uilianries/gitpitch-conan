@@ -1,0 +1,8 @@
+theme : kitchen
+
+footnote : "@uilianries"
+
+logo : assets/img/logo.png
+logo-position : bottom-right
+
+background : assets/img/lego-white.png
