@@ -1,7 +1,7 @@
 theme: night
 highlight : monokai
 
-footnote : "<a href='https://uilianries.github.io'><font size='5' color='white'>@uilianries</font></a>"
+footnote : "<a href='https://uilianries.github.io'><font size='3' color='white'>@uilianries</font></a>"
 
 theme-override : assets/css/PITCHME.css
 
