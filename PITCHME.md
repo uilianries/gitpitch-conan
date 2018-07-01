@@ -170,7 +170,9 @@ Not the barbarian
 ### CONAN IN ACTION
 @title[Conan in Action]
 
-Talk is cheap. Show me the code.     ![torvalds](assets/img/torvalds.png)
+Talk is cheap. Show me the code.
+
+![torvalds](assets/img/torvalds.png)
 
 ---?image=assets/img/lego-dark-red.png
 
