@@ -205,7 +205,6 @@ example
 ```cpp
 #include <Poco/MD5Engine.h>
 #include <boost/regex.hpp>
-#include <string>
 #include <iostream>
 
 int main() {
