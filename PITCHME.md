@@ -42,10 +42,8 @@ Let's start a new C++ project!
 
 What I need?
 
-@css[left-align](
-- OpenSSL
-- Qt
-- Boost
-- OpenCV
-- POCO
-)
+@css[left-align](- OpenSSL)
+@css[left-align](- Qt)
+@css[left-align](- Boost)
+@css[left-align](- OpenCV)
+@css[left-align](- POCO)
