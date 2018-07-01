@@ -140,8 +140,6 @@ Not the barbarian
 
 ---?image=assets/img/lego-dark-blue.png
 
-![conan-logo](assets/img/logo.png)
-
 * FOSS
 * MIT License
 * Decentralized, GIT style
