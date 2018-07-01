@@ -302,4 +302,23 @@ $ bin/example
 @[2]
 @[3]
 @[4]
-@[5]
+
+---?image=assets/img/lego-dark-red.png
+
+### CONAN IN A NUTSHELL
+@title[Conan in a nutshell]
+
+How the barbarian works.
+
+
+---?image=assets/img/lego-dark-blue.png
+
+#### UNDERSTANDING CONAN
+@title[Understand Conan]
+
+* Package naming
+* System setup
+* Package distribution
+* Local cache
+
+![nutshell](assets/img/nutshell.png)
