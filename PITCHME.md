@@ -43,9 +43,9 @@ Let's start a new C++ project!
 What I need?
 
 @div[left-50]
-- OpenSSL
-- Qt
-- Boost
-- OpenCV
+- OpenSSL<br>
+- Qt<br>
+- Boost<br>
+- OpenCV<br>
 - POCO
 @divend
