@@ -90,6 +90,8 @@ What I need?
 * JavaScript
   - npm
 
+![](assets/img/python-logo.png) ![](assets/img/rust-logo.png) ![](assets/img/js-logo.png)
+
 ---?image=assets/img/lego-dark-blue.png
 
 ![bjarne](assets/img/bjarne.png)
