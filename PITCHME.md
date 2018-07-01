@@ -429,3 +429,29 @@ bincrafters: http://api.bintray.com/conan/bincrafters/public-conan
 Conan Package = **1** recipe, **N** binary packages
 
 ![n-packages](assets/img/n-packages.png)
+
+---?image=assets/img/lego-dark-green.png
+
+#### PACKAGE ID
+@title[package id]
+
+`$ conan search boost/1.67.0@conan/stable`
+
+```
+Existing packages for recipe boost/1.67.0@conan/stable:
+
+    Package_ID: eacfdb5f448bfd89f0b2950fb6b7a79e44c7ea08
+        [options]
+            fPIC: False            
+            shared: False            
+        [settings]
+            arch: x86_64
+            build_type: Release
+            compiler: gcc
+            compiler.libcxx: libstdc++
+            compiler.version: 5
+            os: Linux
+        [requires]
+            bzip2/1.0.6@conan/stable:76f87539fc90ff313e0b3182641a9bb558a717d2
+            zlib/1.2.11@conan/stable:d358fec34c04bcd89832a09158783c750a3304dc
+```
