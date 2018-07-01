@@ -1,4 +1,3 @@
----?image=assets/img/lego-dark-blue.png
 @title[Introduction]
 ## Conan.io
 
