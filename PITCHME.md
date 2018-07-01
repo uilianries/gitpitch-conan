@@ -170,13 +170,8 @@ Not the barbarian
 ### CONAN IN ACTION
 @title[Conan in Action]
 
-@div[left-70]
-<br>
 Talk is cheap. Show me the code.
-@divend
-@div[right-30]
 ![torvalds](assets/img/torvalds.png)
-@divend
 
 ---?image=assets/img/lego-dark-red.png
 
@@ -186,3 +181,5 @@ Talk is cheap. Show me the code.
 * Digest MD5 using Poco project
 * Check an email address by Boost Regex
 * Build using CMake
+
+![projects](assets/img/projects.png)
