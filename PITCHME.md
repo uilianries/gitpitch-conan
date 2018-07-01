@@ -83,7 +83,7 @@ What I need?
 
 #### POPULAR PACKAGE MANAGERS
 
-@div[left-70]
+@div[left-50]
 <br>
 <ul>
   <li>Python</li>
@@ -104,7 +104,7 @@ What I need?
   </ul>
 </ul>
 @divend
-@div[right-30]
+@div[right-50]
 ![languages](assets/img/languages.png)
 @divend
 
