@@ -31,9 +31,9 @@ Work at **@khomp**
 
 ---?image=assets/img/lego-dark-red.png
 
-# POPULAR C ++ PROJECTS
+### POPULAR C ++ PROJECTS
 
-## Because you need good libraries
+##### Because you need good libraries
 
 ---?image=assets/img/lego-dark-blue.png
 
@@ -41,8 +41,10 @@ Let's start a new C++ project!
 
 What I need?
 
+@div[left]
 * OpenSSL
 * Qt
 * Boost
 * OpenCV
 * POCO
+@divend
