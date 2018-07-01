@@ -81,16 +81,18 @@ What I need?
 
 #### POPULAR PACKAGE MANAGERS
 
-* Python
-  - pip, Conda
-* Rust
-  - Cargo
-* Java
-  - Maven
-* JavaScript
-  - npm
-
-@div[right]
+@div[right-70]
+<br>
+* Python<br>
+  - pip, Conda<br>
+* Rust<br>
+  - Cargo<br>
+* Java<br>
+  - Maven<br>
+* JavaScript<br>
+  - npm<br>
+@divend
+@div[right-30]
 ![python-logo](assets/img/python-logo.png)
 ![rust-logo](assets/img/rust-logo.png)
 ![js-logo](assets/img/js-logo.png)
