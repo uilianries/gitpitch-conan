@@ -230,8 +230,8 @@ conanfile.txt
 
 ```
 [requires]
-Poco/1.8.0.1@pocoproject/stable
-Boost/1.9.0@conan/stable
+Poco/1.9.0@pocoproject/stable
+boost/1.67.0@conan/stable
 
 [generators]
 cmake
