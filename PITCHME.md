@@ -463,10 +463,9 @@ Existing packages for recipe boost/1.67.0@conan/stable:
 
 How a recipe looks like.
 
-
 ---?image=assets/img/lego-dark-green.png
 
-### CREATING PACKAGES
+#### CREATING PACKAGES
 @title[creating packages]
 
 ```python
@@ -490,7 +489,7 @@ class HelloConan(ConanFile):
 
 ---?image=assets/img/lego-dark-green.png
 
-### CREATING PACKAGES
+#### CREATING PACKAGES
 @title[creating packages]
 
 `conan create . uilianries/testing`
@@ -509,3 +508,39 @@ hello/0.1.0@uilianries/testing: Copying sources to build folder
 hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
 ...
 ```
+
+---?image=assets/img/lego-dark-red.png
+
+### COMMUNITY
+@title[community]
+
+Sharing data is the first step toward community.
+
+---?image=assets/img/lego-dark-green.png
+
+#### BINTRAY AS DOWNLOAD CENTER
+@title[bintray]
+
+* https://bintray.com/conan
+* Frog’s solution
+* Conan Center: +100 recipes
+
+---?image=assets/img/lego-dark-blue.png
+
+#### BINCRAFTERS
+@title[bincrafters]
+
+@div[left-70]
+<br>
+<ul>
+  <li>https://bincrafters.github.io</li>
+  <li>Packaging OSS Software</li>
+  <li>~20 members and growing</li>
+  <li>+200 recipes, including:</li>
+  <li>Modular Boost, Abseil, Azure, Qt, ...</li>
+  <li>Thanks to @solvingj, @SSE4, @grafikbot, @theirix, @madebr</li>
+</ul>
+@divend
+@div[left-30]
+![bincrafters](assets/img/bincrafters-logo.png)
+@divend
