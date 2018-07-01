@@ -327,7 +327,7 @@ How the barbarian works.
 #### PACKAGE NAMING
 @title[Package Naming]
 
-`name/version@user/channel`
+**`name/version@user/channel`**
 
 * Examples
   * Poco/1.9.0@pocoproject/stable
