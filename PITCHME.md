@@ -333,3 +333,12 @@ How the barbarian works.
   * Poco/1.9.0@pocoproject/stable
   * Boost/1.67.0@conan/testing
   * Qt/5.11.0@bincrafters/stable
+
+---?image=assets/img/lego-dark-green.png
+
+#### SYSTEM SETUP
+@title[System Setup]
+
+* Based on Profiles
+
+**Conan settings + Host configuration = Profile**
