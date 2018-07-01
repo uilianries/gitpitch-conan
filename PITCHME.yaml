@@ -1,7 +1,7 @@
 theme : night
 highlight : ir-black
 
-footnote : "<a href='https://uilianries.github.io'>@uilianries</a>"
+footnote : "<a style='text-decoration: none; color: white;' href='https://uilianries.github.io'>@uilianries</a>"
 
 logo : assets/img/logo.png
 logo-position : bottom-right
