@@ -119,12 +119,14 @@ What I need?
 
 @div[left-50]
 <br>
-• CONAN<br>
-• HUNTER<br>
-• BUCKAROO<br>
-• VCPKG<br>
-• CGET<br>
-• CPM<br>
+<ul>
+  <li>CONAN</li>
+  <li>HUNTER</li>
+  <li>BUCKAROO</li>
+  <li>VCPKG</li>
+  <li>CGET</li>
+  <li>CPM</li>
+<ul>
 @divend
 @div[right-30]
 ![cpp](assets/img/cpp-logo.png)
@@ -140,11 +142,19 @@ Not the barbarian
 
 ---?image=assets/img/lego-dark-blue.png
 
-* FOSS
-* MIT License
-* Decentralized, GIT style
-* Handles from source/binaries
-* Generators for CMake, VS, XCode, qmake …
-* Developed in Python
-* +100 contributors
-* 2K stars (Github)
+@div[left-70]
+<br>
+<ul>
+  <li>FOSS</li>
+  <li>MIT License</li>
+  <li>Decentralized, GIT style</li>
+  <li>Handles from source/binaries</li>
+  <li>Generators for CMake, VS, XCode, qmake …</li>
+  <li>Developed in Python</li>
+  <li>+100 contributors</li>
+  <li>2K stars (Github)</li>
+</ul>
+@divend
+@div[right-30]
+![cpp](assets/img/logo.png)
+@divend
