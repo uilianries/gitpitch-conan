@@ -420,3 +420,12 @@ my-company: http://172.0.1.42:9300
 conan-center: https://conan.bintray.com
 bincrafters: http://api.bintray.com/conan/bincrafters/public-conan
 ```
+
+---?image=assets/img/lego-dark-green.png
+
+#### LOCAL CACHE
+@title[local cache]
+
+Conan Package = **1** recipe, **N** binary packages
+
+![n-packages](assets/img/n-packages.png)
