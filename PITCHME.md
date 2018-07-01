@@ -129,3 +129,24 @@ What I need?
 @div[right-30]
 ![cpp](assets/img/cpp-logo.png)
 @divend
+
+---?image=assets/img/lego-dark-red.png
+
+## CONAN
+
+Not the barbarian
+
+![conan-barbarian](assets/gif/conan.gif)
+
+---?image=assets/img/lego-dark-blue.png
+
+![conan-logo](assets/img/logo.png)
+
+* FOSS
+* MIT License
+* Decentralized, GIT style
+* Handles from source/binaries
+* Generators for CMake, VS, XCode, qmake …
+* Developed in Python
+* +100 contributors
+* 2K stars (Github)
