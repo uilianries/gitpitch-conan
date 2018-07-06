@@ -28,7 +28,7 @@ Work at **@khomp**
 ![me](assets/img/me.png)
 @divend
 
----?image=assets/img/vagas-khomp.png
+---?image=assets/img/vaga-khomp.png
 @title[Khomp]
 
 ---?image=assets/img/lego-dark-red.png
