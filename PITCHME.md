@@ -28,6 +28,9 @@ Work at **@khomp**
 ![me](assets/img/me.png)
 @divend
 
+---?image=assets/img/vagas-khomp.png
+@title[Khomp]
+
 ---?image=assets/img/lego-dark-red.png
 
 ### POPULAR C/C++ PROJECTS
