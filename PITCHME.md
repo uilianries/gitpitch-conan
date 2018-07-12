@@ -538,7 +538,7 @@ Sharing data is the first step toward community.
 #### BINTRAY AS DOWNLOAD CENTER
 
 * https://bintray.com/conan
-* Frog’s solution
+* JFrog’s solution
 * Conan Center: +100 recipes
 
 ---?image=assets/img/lego-dark-blue.png
