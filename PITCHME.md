@@ -523,14 +523,14 @@ Sharing data is the first step toward community.
 ---?image=assets/img/lego-dark-blue.png
 @title[Github]
 
-https://github.com/conan-io/conan
+#### https://github.com/conan-io/conan
 
 ![github](assets/img/github-conan.png)
 
 ---?image=assets/img/lego-dark-blue.png
 @title[Conan docs]
 
-https://docs.conan.io
+#### https://docs.conan.io
 
 ![docs](assets/img/docs-conan.png)
 
