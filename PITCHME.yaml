@@ -10,6 +10,6 @@ logo-position : bottom-right
 
 background : assets/img/lego-dark-blue.png
 
-transition : none
+transition : fade
 
 mousewheel : true
