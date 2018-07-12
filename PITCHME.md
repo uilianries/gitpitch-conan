@@ -2,7 +2,7 @@
 
 #### The C/C++ Package Manager for Developers
 
-![conan](assets/img/conan.png)
+![conan](assets/img/logo.png)
 
 ---?image=assets/img/lego-dark-green.png
 @title[About me]
