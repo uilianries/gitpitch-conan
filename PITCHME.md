@@ -2,7 +2,7 @@
 
 #### The C/C++ Package Manager for Developers
 
-FISL18
+![fisl](assets/img/fisl.png)
 
 ---?image=assets/img/lego-dark-green.png
 @title[About me]
