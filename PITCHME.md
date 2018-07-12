@@ -520,8 +520,21 @@ hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
 
 Sharing data is the first step toward community.
 
----?image=assets/img/lego-dark-green.png
+---?image=assets/img/lego-dark-blue.png
+@title[Github]
 
+https://github.com/conan-io/conan
+
+![github](assets/img/github-conan.png)
+
+---?image=assets/img/lego-dark-blue.png
+@title[Conan docs]
+
+https://docs.conan.io
+
+![docs](assets/img/docs-conan.png)
+
+---?image=assets/img/lego-dark-green.png
 #### BINTRAY AS DOWNLOAD CENTER
 
 * https://bintray.com/conan
