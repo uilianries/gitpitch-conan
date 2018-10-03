@@ -16,7 +16,7 @@ Hello!
 <br>
 C++ and Python Developer
 <br>
-Work at **@khomp**
+Work at **@jfrog**
 <br>
 <br>
 @uilianries
@@ -27,9 +27,6 @@ Work at **@khomp**
 @div[right-30]
 ![me](assets/img/me.png)
 @divend
-
----?image=assets/img/vaga-khomp.png
-@title[Khomp]
 
 ---?image=assets/img/lego-dark-red.png
 
