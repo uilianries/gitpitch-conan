@@ -553,7 +553,7 @@ Sharing data is the first step toward community.
 
 * https://bintray.com/conan
 * JFrog’s solution
-* Conan Center: +100 recipes
+* Conan Center: +200 recipes
 
 ---?image=assets/img/lego-dark-blue.png
 
