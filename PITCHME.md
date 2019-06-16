@@ -568,9 +568,9 @@ Sharing data is the first step toward community.
 ![bincrafters](assets/img/bincrafters-logo.png)
 @divend
 
----?image=assets/img/lego-dark-blue.png
+---?image=assets/img/lego-dark-green.png
 
-#### Slack
+#### SLACK
 
 @div[left-70]
 <br>
@@ -585,7 +585,7 @@ Sharing data is the first step toward community.
 </ul>
 @divend
 @div[left-30]
-![bincrafters](assets/img/slack.png)
+![slack](assets/img/slack.png)
 @divend
 
 ---?image=assets/img/lego-dark-white.png
