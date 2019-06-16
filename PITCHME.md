@@ -8,7 +8,7 @@
 
 #### Keep pushing the wheel of pain
 
-![wheel of pain](assets/gif/wheel_of_pain.gif)
+![wheel of pain](assets/gif/wheel.gif)
 
 ---?image=assets/img/lego-dark-green.png
 @title[About me]
