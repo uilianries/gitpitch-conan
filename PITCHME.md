@@ -522,6 +522,31 @@ hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
 
 ---?image=assets/img/lego-dark-red.png
 
+### EXTRA FEATURES
+
+Bonus
+
+---?image=assets/img/lego-dark-blue.png
+
+#### WORKSPACES
+
+The Conan workspaces allow to have more than one package in user folders
+
+```
+editables:
+    say/0.1@user/testing:
+        path: say
+    hello/0.1@user/testing:
+        path: hello
+    chat/0.1@user/testing:
+        path: chat
+layout: layout_gcc
+workspace_generator: cmake
+root: chat/0.1@user/testing
+```
+
+---?image=assets/img/lego-dark-red.png
+
 ### COMMUNITY
 
 Sharing data is the first step toward community.
