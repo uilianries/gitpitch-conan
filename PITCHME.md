@@ -116,9 +116,10 @@ What does it need?
 
 ![bjarne](assets/img/bjarne.png)
 
-SG15, Tooling: modules and package management
-Paper P1067R0
+Note:
 
+- SG15, Tooling: modules and package management
+- Paper P1067R0
 
 ---?image=assets/img/lego-dark-blue.png
 
