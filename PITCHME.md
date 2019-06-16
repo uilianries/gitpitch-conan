@@ -4,6 +4,12 @@
 
 ![conan](assets/img/conan-small.png)
 
+---?image=assets/img/lego-dark-red.png
+
+#### Keep pushing the wheel of pain
+
+![wheel of pain](assets/gif/wheel_of_pain.png)
+
 ---?image=assets/img/lego-dark-green.png
 @title[About me]
 
@@ -445,8 +451,8 @@ Existing packages for recipe boost/1.67.0@conan/stable:
 
     Package_ID: eacfdb5f448bfd89f0b2950fb6b7a79e44c7ea08
         [options]
-            fPIC: False            
-            shared: False            
+            fPIC: False
+            shared: False
         [settings]
             arch: x86_64
             build_type: Release
@@ -578,9 +584,9 @@ Sharing data is the first step toward community.
 
 ##### Questions ?
 
-You can find me on:  
+You can find me on:
 
-**@uilianries** - twitter, github  
-cpplang.slack.com - channel #conan or #bincrafters  
-uilianries@gmail.com  
+**@uilianries** - twitter, github
+cpplang.slack.com - channel #conan or #bincrafters
+uilianries@gmail.com
 https://conan.io
