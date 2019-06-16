@@ -557,7 +557,7 @@ Sharing data is the first step toward community.
   <li>https://bincrafters.github.io</li>
   <li>Packaging OSS Software</li>
   <li>~20 members and growing</li>
-  <li>+200 recipes, including:</li>
+  <li>+500 projects, including:</li>
   <ul>
     <li>Boost, Abseil, Azure, Qt</li>
   </ul>
@@ -566,6 +566,26 @@ Sharing data is the first step toward community.
 @divend
 @div[left-30]
 ![bincrafters](assets/img/bincrafters-logo.png)
+@divend
+
+---?image=assets/img/lego-dark-blue.png
+
+#### Slack
+
+@div[left-70]
+<br>
+<ul>
+  <li>https://cpplang.slack.com</li>
+  <li>+840 members</li>
+  <li>Channels</li>
+  <ul>
+    <li>#conan</li>
+    <li>#bincrafters</li>
+  </ul>
+</ul>
+@divend
+@div[left-30]
+![bincrafters](assets/img/slack.png)
 @divend
 
 ---?image=assets/img/lego-dark-white.png
