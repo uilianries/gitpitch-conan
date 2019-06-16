@@ -161,8 +161,8 @@ Not the barbarian
   <li>Handles from source/binaries</li>
   <li>Generators for CMake, VS, XCode, qmake …</li>
   <li>Developed in Python</li>
-  <li>+100 contributors</li>
-  <li>2K stars (Github)</li>
+  <li>+150 contributors</li>
+  <li>+2K stars (Github)</li>
 </ul>
 @divend
 @div[right-30]
@@ -346,8 +346,6 @@ $ bin/example
 * Install Poco 1.9.0 binaries
 * CMake helper
 * It works for Linux, Windows, Macos, FreeBSD, ...
-
-![obama](assets/gif/obama.gif)
 
 ---?image=assets/img/lego-dark-red.png
 
