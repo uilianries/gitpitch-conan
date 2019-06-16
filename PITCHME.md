@@ -595,7 +595,7 @@ Sharing data is the first step toward community.
 * https://github.com/bincrafters
 * https://conan.io
 * https://docs.conan.io
-* https://github.com/memsharded/four-c-example
+* https://github.com/conan-io/examples
 * [CppCon 2016: Conan, a C and C++ package manager for developers](https://youtu.be/xvqH_ck-5Q8)
 * https://bintray.com/conan
 * [Programming C++ With The 4 Cs: Clang, Cmake, Clion And Conan](https://blog.conan.io/2016/05/10/Programming-C++-with-the-4-Cs-Clang,-CMake,-CLion-and-Conan.html)
