@@ -576,11 +576,10 @@ Sharing data is the first step toward community.
 <br>
 <ul>
   <li>https://cpplang.slack.com</li>
-  <li>+840 members</li>
   <li>Channels</li>
   <ul>
-    <li>#conan</li>
-    <li>#bincrafters</li>
+    <li>#conan (+840 members)</li>
+    <li>#bincrafters (+200 members)</li>
   </ul>
 </ul>
 @divend
