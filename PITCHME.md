@@ -4,8 +4,6 @@
 
 ![conan](assets/img/conan-small.png)
 
----?image=assets/img/lego-dark-red.png
-
 ---?image=assets/img/lego-dark-green.png
 @title[Sobre mim]
 
@@ -29,6 +27,8 @@ Tabralha para a **@jfrog**
 @div[right-30]
 ![me](assets/img/me.png)
 @divend
+
+---?image=assets/img/lego-dark-red.png
 
 #### Continue empurrando a roda da dor
 
