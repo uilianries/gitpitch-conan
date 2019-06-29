@@ -63,7 +63,7 @@ O que precisamos?
 
 * Baixe o fonte, construa na sua máquina
   - Isso pode levar minutos, horas ou até dias
-  - Podem have dependências extras
+  - Podem haver dependências extras
   - Você precisa saber como construir o projeto
 
 * Instalar utilizando o gerenciador de pacotes nativo
@@ -171,27 +171,27 @@ Não o bárbaro!
 
 ---?image=assets/img/lego-dark-green.png
 
-### INSTALL
+### INSTALAÇÃO
 
 `$ pip install conan`
 
 ---?image=assets/img/lego-dark-red.png
 
-### CONAN IN ACTION
+### CONAN EM AÇÃO
 @title[Conan in Action]
 
-Talk is cheap. Show me the code.
+"Falar é fácil. Me mostre o código."
 
 ![torvalds](assets/img/torvalds.png)
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action File - Propose]
 
-* Digest MD5 using Poco project
-* Check string by Boost Regex
-* Build using CMake
+* Calcular MD% utilizando Poco
+* Verificar um string com Boost Regex
+* Construir utilizando CMake
 
 ![projects](assets/img/projects.png)
 
@@ -258,7 +258,7 @@ cmake
 #### CONAN EM AÇÃO
 @title[Conan in Action - CMakeLists.txt]
 
-CMakeLists.txt - **TARGET**
+CMakeLists.txt - **COM FindXXX.cmake**
 
 ```cmake
 cmake_minimum_required(VERSION 2.8)
@@ -280,7 +280,7 @@ target_link_libraries(example ${Boost_LIBRARIES} ${Poco_LIBRARIES})
 #### CONAN EM AÇÃO
 @title[Conan in Action - CMakeLists.txt (Conan)]
 
-CMakeLists.txt - **WITH CONAN**
+CMakeLists.txt - **COM conanbuildinfo.cmake**
 
 ```cmake
 cmake_minimum_required(VERSION 2.8)
@@ -411,7 +411,7 @@ build_type=Release
 #### DISTRIBUIÇÃO DE PACOTES
 
 * Parecido com GIT
-* Suport remotos multiplos
+* Suporte a multiplos remotos
 * Repositório central - JFrog Bintray
 * Fácil de rodar um instância local
   * `$ conan_server`
@@ -445,7 +445,7 @@ Pacotes Conan = **1** receita, **N** pacotes binários
 
 ---?image=assets/img/lego-dark-green.png
 
-#### ID do PACKAGE
+#### ID DO PACOTE
 
 `$ conan search boost/1.67.0@conan/stable`
 
@@ -569,7 +569,7 @@ hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
   <ul>
     <li>Boost, Abseil, Azure, Qt</li>
   </ul>
-  <li>Agradecimento para @solvingj, @SSE4, @grafikbot, @theirix, @madebr</li>
+  <li>Agradecimento para @solvingj, @SSE4, @grafikbot, @theirix, @madebr, @Croydon</li>
 </ul>
 @divend
 @div[left-30]
