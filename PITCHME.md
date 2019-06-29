@@ -1,28 +1,24 @@
 ## Conan.io
 
-#### The C/C++ Package Manager for Developers
+#### O Gerenciador de pacotes para C e C++
 
 ![conan](assets/img/conan-small.png)
 
 ---?image=assets/img/lego-dark-red.png
 
-#### Keep pushing the wheel of pain
-
-![wheel of pain](assets/gif/wheel.gif)
-
 ---?image=assets/img/lego-dark-green.png
-@title[About me]
+@title[Sobre mim]
 
 @div[left-70]
-Hello!
+Olá!
 <br>
 <br>
 **Uilian Ries**
 <br>
 <br>
-C++ and Python Developer
+Desenvolvedor C++ e Python
 <br>
-Work at **@jfrog**
+Tabralha para a **@jfrog**
 <br>
 <br>
 @uilianries
@@ -34,18 +30,22 @@ Work at **@jfrog**
 ![me](assets/img/me.png)
 @divend
 
+#### Continue empurrando a roda da dor
+
+![wheel of pain](assets/gif/wheel.gif)
+
 ---?image=assets/img/lego-dark-red.png
 
-### POPULAR C/C++ PROJECTS
+### PROJETOS POPULARES C/C++
 
-##### Because you need good libraries
+##### Porque você precisa de boas bibliotecas
 
 ---?image=assets/img/lego-dark-blue.png
 @title[A New Project]
 
-Let's start a new C++ project!
+Vamos começar um novo projeto C++!
 
-What does it need?
+O que precisamos?
 
 @div[left-50]
 <ul>
@@ -59,32 +59,32 @@ What does it need?
 
 ---?image=assets/img/lego-dark-green.png
 
-#### ALL OF THEM NEED TO BE BUILT
+#### TODAS PRECISAM SER COMPILADAS
 
-* Download the source. Build on your machine
-  - It may take several minutes, or even hours
-  - There may be external dependencies
-  - You need to know how to build
+* Baixe o fonte, construa na sua máquina
+  - Isso pode levar minutos, horas ou até dias
+  - Podem have dependências extras
+  - Você precisa saber como construir o projeto
 
-* Install by system package manager
-  - The version may not be as expected
-  - There may be a patch applied
+* Instalar utilizando o gerenciador de pacotes nativo
+  - A versão disponível pode não ser a esperada
+  - Pode ser necessário ainda aplicar um patch
 
 ---?image=assets/img/lego-dark-green.png
 
-#### Build from source? Install from distro?
+#### Compilar os fontes? Instalar pela distro?
 
 ![build-all](assets/gif/good-bad-ugly.gif)
 
 ---?image=assets/img/lego-dark-red.png
 
-### PACKAGE MANAGERS
+### GERENCIADOR DE PACOTES
 
-##### How to avoid *externals* in your project
+##### Como evitar o *externals* no seu projeto
 
 ---?image=assets/img/lego-dark-green.png
 
-#### POPULAR PACKAGE MANAGERS
+#### GERENCIADORES DE PACOTES POPULARES
 
 @div[left-50]
 <br>
@@ -123,7 +123,7 @@ Note:
 
 ---?image=assets/img/lego-dark-blue.png
 
-#### C++ UNIVERSE
+#### UNIVERSO C++
 
 @div[left-50]
 <br>
@@ -144,7 +144,7 @@ Note:
 
 ## CONAN
 
-Not the barbarian
+Não o bárbaro!
 
 ![conan-barbarian](assets/gif/conan.gif)
 
@@ -156,13 +156,13 @@ Not the barbarian
 <br>
 <ul>
   <li>FOSS</li>
-  <li>MIT License</li>
-  <li>Decentralized, GIT style</li>
-  <li>Handles from source/binaries</li>
-  <li>Generators for CMake, VS, XCode, qmake …</li>
-  <li>Developed in Python</li>
-  <li>+150 contributors</li>
-  <li>+2K stars (Github)</li>
+  <li>Licença MIT</li>
+  <li>Descentralizado como GIT</li>
+  <li>Manipula fontes e binários</li>
+  <li>Geradores para CMake, VS, XCode, qmake …</li>
+  <li>Desenvolvido em Python</li>
+  <li>+150 contribuidores</li>
+  <li>+2K likes (Github)</li>
 </ul>
 @divend
 @div[right-30]
@@ -197,7 +197,7 @@ Talk is cheap. Show me the code.
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - Project Structure]
 
 ```
@@ -209,7 +209,7 @@ example
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - main.cpp]
 
 main.cpp
@@ -236,7 +236,7 @@ int main() {
 
 ---?image=assets/img/lego-dark-blue.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - conanfile.txt]
 
 conanfile.txt
@@ -255,7 +255,7 @@ cmake
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - CMakeLists.txt]
 
 CMakeLists.txt - **TARGET**
@@ -277,7 +277,7 @@ target_link_libraries(example ${Boost_LIBRARIES} ${Poco_LIBRARIES})
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - CMakeLists.txt (Conan)]
 
 CMakeLists.txt - **WITH CONAN**
@@ -299,10 +299,10 @@ target_link_libraries(example ${CONAN_LIBS})
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - Conan Install]
 
-How to Build
+Como Construir
 
 `$ conan install .`
 
@@ -320,10 +320,10 @@ PROJECT: Generated conaninfo.txt
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - Build]
 
-How to Build
+Como construir
 
 ```
 $ conan install .
@@ -339,53 +339,53 @@ $ bin/example
 
 ---?image=assets/img/lego-dark-blue.png
 
-#### CONAN IN ACTION
+#### CONAN EM AÇÃO
 @title[Conan in Action - The Result]
 
-* Install Boost 1.67.0 binaries
-* Install Poco 1.9.0 binaries
+* Instalou Boost 1.67.0 compilado
+* Instalou Poco 1.9.0 compilado
 * CMake helper
-* It works for Linux, Windows, Macos, FreeBSD, ...
+* Funciona no Linux, Windows, Macos, FreeBSD, ...
 
 ---?image=assets/img/lego-dark-red.png
 
-### CONAN IN A NUTSHELL
+### CONAN NUMA CASCA DE NOZ
 
-How it works.
+Como isso funciona.
 
 ![nutshell](assets/img/nutshell-conan.png)
 
 ---?image=assets/img/lego-dark-blue.png
 
-#### UNDERSTANDING CONAN
+#### COMPREENDENDO O CONAN
 
-* Package naming
-* System setup
-* Package distribution
-* Local cache
+* Nomenclatura de pacotes
+* Setup do sistema
+* Distribuição de pacotes
+* Cache local
 
 ---?image=assets/img/lego-dark-green.png
 
-#### PACKAGE NAMING
+#### NOMENCLATURA DE PACOTES
 
 **`name/version@user/channel`**
 
-* Examples
+* Exemplos
   * Poco/1.9.0@pocoproject/stable
   * Boost/1.67.0@conan/testing
   * Qt/5.11.0@bincrafters/stable
 
 ---?image=assets/img/lego-dark-green.png
 
-#### SYSTEM SETUP
+#### SETUP DO SISTEMA
 
-* Based on Profiles
+* Baseado em perfils
 
-**Conan settings + Host configuration = Profile**
+**Definições do Conan + Configuração do host = Perfil**
 
 ---?image=assets/img/lego-dark-green.png
 
-#### PROFILE
+#### PERFIL
 
 `$ conan profile show default`
 
@@ -408,24 +408,24 @@ build_type=Release
 
 ---?image=assets/img/lego-dark-green.png
 
-#### PACKAGE DISTRIBUTION
+#### DISTRIBUIÇÃO DE PACOTES
 
-* Git flavor
-* Support multiple remotes
-* Central repository - JFrog Bintray
-* Easy to run a local server instance
+* Parecido com GIT
+* Suport remotos multiplos
+* Repositório central - JFrog Bintray
+* Fácil de rodar um instância local
   * `$ conan_server`
-* JFrog Artifactory can be used together
+* JFrog Artifactory pode ser utilizado junto
 
 ---?image=assets/img/lego-dark-red.png
 
-#### PACKAGE DISTRIBUTION
+#### DISTRIBUIÇÃO DE PACOTES
 
 ![distribution](assets/img/systems.png)
 
 ---?image=assets/img/lego-dark-green.png
 
-#### LIST REMOTES
+#### LISTA DE REMOTOS
 
 `$ conan remote list`
 
@@ -437,15 +437,15 @@ bincrafters: http://api.bintray.com/conan/bincrafters/public-conan
 
 ---?image=assets/img/lego-dark-green.png
 
-#### LOCAL CACHE
+#### CACHE LOCAL
 
-Conan Package = **1** recipe, **N** binary packages
+Pacotes Conan = **1** receita, **N** pacotes binários
 
 ![n-packages](assets/img/n-packages.png)
 
 ---?image=assets/img/lego-dark-green.png
 
-#### PACKAGE ID
+#### ID do PACKAGE
 
 `$ conan search boost/1.67.0@conan/stable`
 
@@ -470,13 +470,13 @@ Existing packages for recipe boost/1.67.0@conan/stable:
 
 ---?image=assets/img/lego-dark-red.png
 
-### CREATING PACKAGES
+### CRIANDO PACOTES
 
-How a recipe looks like.
+Como uma receita se parece.
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CREATING PACKAGES
+#### CRIANDO PACOTES
 @title[Creating Packages - conanfile.py]
 
 ```python
@@ -500,7 +500,7 @@ class HelloConan(ConanFile):
 
 ---?image=assets/img/lego-dark-green.png
 
-#### CREATING PACKAGES
+#### CRIANDO PACOTES
 @title[Creating Packages - Create]
 
 `conan create . uilianries/testing`
@@ -522,9 +522,9 @@ hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
 
 ---?image=assets/img/lego-dark-red.png
 
-### COMMUNITY
+### COMUNIDADE
 
-Sharing data is the first step toward community.
+"Compartilhar dados é o primeiro passo em direção à comunidade."
 
 ---?image=assets/img/lego-dark-blue.png
 @title[Github]
@@ -543,17 +543,17 @@ Sharing data is the first step toward community.
 ---?image=assets/img/lego-dark-blue.png
 @title[plugins]
 
-### PLUGINS
+### EXTENSÕES
 
 * [CLion](https://plugins.jetbrains.com/plugin/11956-conan)
 * [Visual Studio](https://docs.conan.io/en/latest/integrations/ide/visual_studio.html)
 
 ---?image=assets/img/lego-dark-green.png
-#### BINTRAY AS DOWNLOAD CENTER
+#### BINTRAY COMO CENTRAL PARA DOWNLOADS
 
 * https://bintray.com/conan
-* JFrog’s solution
-* Conan Center: +200 recipes
+* Solução da JFrog
+* Conan Center: +200 receitas
 
 ---?image=assets/img/lego-dark-blue.png
 
@@ -563,13 +563,13 @@ Sharing data is the first step toward community.
 <br>
 <ul>
   <li>https://bincrafters.github.io</li>
-  <li>Packaging OSS Software</li>
-  <li>~20 members and growing</li>
-  <li>+500 projects, including:</li>
+  <li>Empacotando Software OSS</li>
+  <li>~20 membros e crescendo</li>
+  <li>+500 projetos, incluindo:</li>
   <ul>
     <li>Boost, Abseil, Azure, Qt</li>
   </ul>
-  <li>Thanks to @solvingj, @SSE4, @grafikbot, @theirix, @madebr</li>
+  <li>Agradecimento para @solvingj, @SSE4, @grafikbot, @theirix, @madebr</li>
 </ul>
 @divend
 @div[left-30]
@@ -584,10 +584,10 @@ Sharing data is the first step toward community.
 <br>
 <ul>
   <li>https://cpplang.slack.com</li>
-  <li>Channels</li>
+  <li>Canais</li>
   <ul>
-    <li>#conan (+840 members)</li>
-    <li>#bincrafters (+200 members)</li>
+    <li>#conan (+840 membros)</li>
+    <li>#bincrafters (+200 membros)</li>
   </ul>
 </ul>
 @divend
@@ -597,7 +597,7 @@ Sharing data is the first step toward community.
 
 ---?image=assets/img/lego-dark-white.png
 
-#### REFERENCES
+#### REFERÊNCIAS
 
 * https://github.com/conan-io/conan
 * https://github.com/bincrafters
@@ -610,13 +610,13 @@ Sharing data is the first step toward community.
 
 ---?image=assets/img/lego-dark-white.png
 
-### THANK YOU!
+### OBRIGADO!
 
-##### Questions ?
+##### Perguntas, Dúvidas, Curiosidades ?
 
-You can find me on:
+Você pode me encontrar em:
 
 **@uilianries** - twitter, github
-cpplang.slack.com - channel #conan or #bincrafters
+cpplang.slack.com - canais #conan or #bincrafters
 uilianries@gmail.com
 https://conan.io
