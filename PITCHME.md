@@ -576,6 +576,21 @@ hello/0.1.0@uilianries/testing: Generator cmake created conanbuildinfo.cmake
 ![bincrafters](assets/img/bincrafters-logo.png)
 @divend
 
+---?image=assets/img/lego-dark-blue.png
+
+#### AUTORES
+
+Também mantido pelos autores oficiais:
+
+* [Poco](https://github.com/pocoproject/poco)
+  - Biblioteca C++ multi propósito
+* [Ezored](https://github.com/ezored/ezored)
+  - Toolkit C++ para desktop e mobile
+* [Catch2](https://github.com/catchorg/Catch2)
+  - Framework de teste header-only
+* [Flatbuffers](https://github.com/google/flatbuffers)
+  - Biblioteca para serialização
+
 ---?image=assets/img/lego-dark-green.png
 
 #### SLACK
