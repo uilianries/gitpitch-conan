@@ -30,12 +30,6 @@ Tabralha para a **@jfrog**
 
 ---?image=assets/img/lego-dark-red.png
 
-#### Continue empurrando a roda da dor
-
-![wheel of pain](assets/gif/wheel.gif)
-
----?image=assets/img/lego-dark-red.png
-
 ### PROJETOS POPULARES C/C++
 
 ##### Porque você precisa de boas bibliotecas
